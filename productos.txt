@@ -1,0 +1,23 @@
+[
+{	
+        "code" :"maceta",
+        "name":"MACETA 01",
+        "precio":30999,
+        "imagen":"https://raw.githubusercontent.com/KernAgustin/rococoproyecto/master/img/MACETA_TIPO_02.webp",
+        "descripcion":"maceta tipo 01"     
+    },
+    {
+        "code" :"maceta",
+        "name":"MACETA 02",
+        "precio": 22999,
+        "imagen":"https://raw.githubusercontent.com/KernAgustin/rococoproyecto/master/img/MACETA_TIPO_01.webp",
+        "descripcion":"maceta tipo 02"   
+    },
+    {	
+        "code" :"maceta",
+        "name":"MACETA 03",
+        "precio": 13999,
+        "imagen":"https://raw.githubusercontent.com/KernAgustin/rococoproyecto/master/img/MACETA_TIPO_03.webp",
+        "descripcion":"maceta tipo 03"     
+    },
+]
